@@ -1,6 +1,6 @@
 # PyAutomate
 # Copyright (c) Alexander Richards
-# Licensed under CC Atribution
+# Licensed under CC Attribution
 # pyeverything.ml
 
 #Import time for time.wait
