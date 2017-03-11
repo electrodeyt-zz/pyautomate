@@ -22,5 +22,3 @@ Example 2:
 python PyAutomate.py 2 false prime.py
 
 Would run the file prime.py once in two seconds.
-
-#For more Information please Visit pyeverything.ml
